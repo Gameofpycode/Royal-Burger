@@ -1,0 +1,15 @@
+nav{
+    background: var(--main-color-gradient);
+    
+
+}
+nav .container{
+    display: flex;
+    /* align-items: center; */
+    justify-content: space-between;
+
+}
+nav .nav-item .nav-link{
+    color: #fff;
+    font-size: 1.1rem;
+}
